@@ -2,9 +2,10 @@
 This app allows its users to generate Logistic Regression and SVM based models using R's famous CARET (Classification and Regression Training) Logreg and SVM packages.
 Access this application: https://sunilkappal.shinyapps.io/Logistic_Regression_Data_Dojo/
 
-Understanding AIC (Akiake's Information Criteria) for Model selection and understanding the outputs of this app.
+Understanding AIC (Akaike's Information Criteria) for Model selection and understanding the outputs of this app.
 
 AIC basic principles
+
 The basic principles that guide the use of the AIC are:
 
 Lower indicates a more parsimonious model, relative to a model fit
