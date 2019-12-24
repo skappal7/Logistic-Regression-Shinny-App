@@ -40,3 +40,5 @@ You should correct for small sample sizes if you use the AIC with
 small sample sizes, by using the AICc statistic.
 
 You can read a detailed overview of AIC here: https://www.r-bloggers.com/how-do-i-interpret-the-aic/
+
+This application is inspired by Subhashish and Mike Wise
